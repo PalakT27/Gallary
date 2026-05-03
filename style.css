@@ -9,7 +9,6 @@ body{
 img{
     width: 100%;
     height: auto;
-    object-fit: cover;
 }
 figure{
     margin: 0;
